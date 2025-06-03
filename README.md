@@ -23,3 +23,9 @@ Agent-based architecture for complex reasoning
 Web search capabilities with result synthesis
 Interactive user interface
 The presentation slides (.ppt) included in this repository provide additional context and architectural details from the ATxSG 2025 session.
+## References
+https://github.com/langchain-ai/local-deep-researcher
+https://dev.to/composiodev/a-comprehensive-guide-to-building-a-deep-research-agent-with-qwen3-locally-1jgm
+https://github.com/LearningCircuit/local-deep-research
+https://python.langchain.com/docs/get_started/introduction
+https://github.com/ollama/ollama
